@@ -1,0 +1,185 @@
+.first{
+	position: static;
+width: 84px;
+height: 27px;
+right: 0px;
+top: 0px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+text-align: right;
+letter-spacing: 0.1em;
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 0px 80px;
+}
+.GGGN{
+	/* Frame 4 */
+
+
+/* Auto Layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 24px 32px;
+
+position: static;
+width: 534px;
+height: 81px;
+left: 0px;
+top: 62px;
+
+/* white */
+
+background: #FFFFFF;
+/* dark blue /1 8 */
+
+border: 2px solid #789ADE;
+box-sizing: border-box;
+border-radius: 80px;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+}
+.HHH{
+	/* Help */
+
+
+position: static;
+width: 48px;
+height: 27px;
+right: 538px;
+top: 0px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+text-align: right;
+letter-spacing: 0.1em;
+
+/* black */
+
+color: #444B59;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 80px;
+}
+.MMM{
+	/* Contact us */
+
+
+position: static;
+width: 114px;
+height: 27px;
+right: 344px;
+top: 0px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+text-align: right;
+letter-spacing: 0.1em;
+
+/* black */
+
+color: #444B59;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 80px;
+}
+.SSS{
+	/* English */
+
+
+position: static;
+width: 77px;
+height: 27px;
+right: 23px;
+top: 0px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+text-align: right;
+letter-spacing: 0.1em;
+
+/* black */
+
+color: #444B59;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 90px;
+}
+.ZZZ{
+	/* Sign Up */
+
+
+position: static;
+width: 84px;
+height: 27px;
+right: 0px;
+top: 0px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+text-align: right;
+letter-spacing: 0.1em;
+
+/* black */
+
+color: #444B59;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 0px 80px;
+}
+.Exlorer_Illustration 1{
+	/* Exlorer_Illustration 1 */
+
+
+position: absolute;
+left: 46.81%;
+right: 4.19%;
+top: 24.17%;
+bottom: 18.06%;
+
+background: url
+}
